@@ -1,4 +1,4 @@
-### "Olá, eu sou Lucas André! 👋 
+### Olá, eu sou Lucas André! 👋 
 #
 Apaixonado por dados e tecnologia! Sou um Engenheiro de Dados entusiasta, especializado em projetos de Engenharia de Dados, Análise de Dados e Desenvolvimento. Aqui você encontrará meu portfólio, repleto de soluções criativas e insights extraídos de dados. 📊💡 
 #
