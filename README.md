@@ -1,6 +1,6 @@
 ### Olá, eu sou Lucas André! 👋 
 #
-Apaixonado por dados e tecnologia! Sou um Engenheiro de Dados entusiasta, especializado em projetos de Engenharia de Dados, Análise de Dados e Desenvolvimento. Aqui você encontrará meu portfólio, repleto de soluções criativas e insights extraídos de dados. 📊💡 
+Apaixonado por dados e tecnologia! Sou um Enge, especializado em projetos de Ciência de Dados, IA e Business Inteligence . Aqui você encontrará meu portfólio, repleto de soluções criativas e insights extraídos de dados. 📊💡 
 #
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasandre1704@gmail.com)
