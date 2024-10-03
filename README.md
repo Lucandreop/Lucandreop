@@ -5,7 +5,7 @@ Apaixonado por dados e tecnologia! Sou um Analista de Dados, especializado em pr
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasandre1704@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucandrep)
-[![blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
+
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucandreop&show_icons=true&theme=gruvbox)
