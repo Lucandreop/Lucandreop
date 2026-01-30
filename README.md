@@ -8,7 +8,7 @@ Apaixonado por dados e tecnologia! Sou um Analista de Dados, especializado em pr
 
 
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucandreop&show_icons=true&theme=gruvbox)
+
 
 ### 🚀🖥️ Tecnologias e Ferramentas
 #
