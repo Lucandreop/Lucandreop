@@ -1,7 +1,8 @@
-### Olá, eu sou Lucas André! 👋 
-#
-Apaixonado por dados e tecnologia! Sou um Analista de Dados, especializado em projetos de Ciência de Dados, IA e Business Inteligence . Aqui você encontrará meu portfólio, repleto de soluções criativas e insights extraídos de dados. 📊💡 
-#
+### Olá, eu sou Lucas André 👋
+
+Estudante de Sistemas de Informação (UFRA), atuando com Ciência de Dados, Inteligência Artificial e Business Intelligence.  
+Meu portfólio reúne projetos de análise exploratória, estatística aplicada e soluções orientadas por dados.
+
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasandre1704@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucandrep)
